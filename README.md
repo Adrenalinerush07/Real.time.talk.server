@@ -8,5 +8,6 @@ Live demo - https://kj-talk-server.herokuapp.com/
 5) I have also coded in a way so that no-one can use "bad-words" ;)
 6) I have used moment.js library to integrate time-stamp of each message and users joining
 7) U can also share location in real time (through auto detection) using mdn developer library
+8) I have maintained proper storage of username and room so that no one complications occur
 
 Feel free to contact if you find any bugs
